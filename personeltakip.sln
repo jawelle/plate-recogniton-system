@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "personeltakip", "personeltakip\personeltakip.csproj", "{56409EEA-EA00-439A-8EA4-2679909EDD89}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{56409EEA-EA00-439A-8EA4-2679909EDD89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56409EEA-EA00-439A-8EA4-2679909EDD89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56409EEA-EA00-439A-8EA4-2679909EDD89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56409EEA-EA00-439A-8EA4-2679909EDD89}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3F9D0BDE-FF12-4406-AEF5-5D432A09566B}
+	EndGlobalSection
+EndGlobal
